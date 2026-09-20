@@ -5,6 +5,8 @@
 
 - Built an internal chat application for communication and collaboration. [IntraOffice](https://github.com/mikorin01/IntraOffice)
 
+- Developed a web-based lost and found system to help users report, manage, and recover lost items. [LostFound](https://github.com/auimnu/lostfound)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aulia-imam-nugroho-766902289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aulia imam nugroho" height="30" width="40" /></a>
